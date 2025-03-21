@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | Temel Elektronik | Temel elektronik ders kitabıdır. | 975-11-2215-5 | MEB | [ Link ](https://www.nadirkitap.com/temel-elektronik-h-refik-peynirci-hikmet-ozata-kitap5954057.html) | 2. | 
 | Uygulamalarla Temel Elektronik | Temel elektronik ders kitabıdır. | 978-625-439-258-0 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/kitap_17067.html) | 3. |
 | Temel Elektrik - Elektronik | Temel elektrik - elektronik ders kitabıdır. | 978-975-511-544-3 | Birsen Yayınevi | [ Link ](https://www.birsenyayinevi.com/temel-elektrik-elektronik-doc-dr-huseyin-demirel-2) | 4. |
-| Elektronik Elemanlar ve 
+| Elektronik Elemanlar ve Devre Teorisi |
 
 ---
 
