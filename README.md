@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Elektronik** alanında 
+**Elektronik** alanında temel ve ileri 
