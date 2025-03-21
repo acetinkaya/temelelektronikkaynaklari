@@ -4,5 +4,6 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Elektronik** alanında temel ve ileri seviye kaynak 
+**Elektronik** alanında temel ve ileri seviye kaynak kitapları 
+
 
