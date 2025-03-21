@@ -1,1 +1,1 @@
-# temelelektronikkaynaklari
+# Görüntü 
