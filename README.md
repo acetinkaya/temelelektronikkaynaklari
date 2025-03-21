@@ -1,1 +1,1 @@
-# Görüntü 
+# Elektronik Ders Kaynaklari
