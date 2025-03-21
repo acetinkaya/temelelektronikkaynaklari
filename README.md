@@ -4,3 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
+**Elektronik** 
