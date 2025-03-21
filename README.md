@@ -4,4 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Elektronik** alanında temel ve ileri 
+**Elektronik** alanında temel ve ileri seviye kaynak 
+
