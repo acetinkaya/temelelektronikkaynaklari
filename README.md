@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. M. Sait Türköz, 
+1. M. Sait Türköz, Temel Elektronik, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
