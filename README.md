@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Elektronik** 
+**Elektronik** alanında 
