@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. M. Sait Türköz, Temel Elektronik, 
+1. M. Sait Türköz, Temel Elektronik, Birsen Yayınevi, İstanbul, 2009.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
