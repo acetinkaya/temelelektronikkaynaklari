@@ -30,7 +30,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 2. H. Refik Peynirci & Hikmet Özata, Temel Elektronik, MEB, İstanbul, 2002.
 3. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik, Nobel Akademik Yayıncılık, Ankara, 2021.
 4. Doç. Dr. Hüseyin Demirel, Temel Elektrik - Elektronik, Birsen Yayınevi, İstanbul, 2022.
-5. R. Boylestad & L. Nashelsky, Elektronik Elemanlar 
+5. R. Boylestad & L. Nashelsky, Elektronik Elemanlar ve Devre Teorisi, MEB, İstanbul, 2004.
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
