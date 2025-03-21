@@ -1,3 +1,3 @@
 # Elektronik Ders Kaynaklari
 
-## Elektronik ve temel 
+## Elektronik ve temel elektronik 
