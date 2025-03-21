@@ -26,7 +26,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 1. M. Sait Türköz, Temel Elektronik, Birsen Yayınevi, İstanbul, 2009.
 2. H. Refik Peynirci & Hikmet Özata, Temel Elektronik, MEB, İstanbul, 2002.
-3. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik, 
+3. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik, Nobel Akademik Yayıncılık, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
