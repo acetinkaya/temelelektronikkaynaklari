@@ -19,7 +19,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
 | Temel Elektronik | Temel elektronik ders kitabıdır. | 978-975-511-169-7 | Birsen Yayınevi | [ Link ](https://www.amazon.com.tr/Temel-Elektronik-M-Sait-T%C3%BCrk%C3%B6z/dp/9755111697) | 1. | 
-| Temel Elektronik | Temel elektronik ders kitabıdır. | 975-11-2215-5 | MEB |
+| Temel Elektronik | Temel elektronik ders kitabıdır. | 975-11-2215-5 | MEB | [ Link ](https://www.nadirkitap.com/temel-elektronik-h-refik-peynirci-hikmet-ozata-kitap5954057.html) | 2. | 
+
 
 
 
