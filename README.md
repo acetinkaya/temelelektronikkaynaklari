@@ -21,13 +21,17 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | Temel Elektronik | Temel elektronik ders kitabıdır. | 978-975-511-169-7 | Birsen Yayınevi | [ Link ](https://www.amazon.com.tr/Temel-Elektronik-M-Sait-T%C3%BCrk%C3%B6z/dp/9755111697) | 1. | 
 | Temel Elektronik | Temel elektronik ders kitabıdır. | 975-11-2215-5 | MEB | [ Link ](https://www.nadirkitap.com/temel-elektronik-h-refik-peynirci-hikmet-ozata-kitap5954057.html) | 2. | 
 | Uygulamalarla Temel Elektronik | Temel elektronik ders kitabıdır. | 978-625-439-258-0 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/kitap_17067.html) | 3. |
-| Temel Elektrik - 
+| Temel Elektrik - Elektronik | Temel elektrik - elektronik ders kitabıdır. | 978-975-511-544-3 | Birsen Yayınevi | [ Link ](https://www.birsenyayinevi.com/temel-elektrik-elektronik-doc-dr-huseyin-demirel-2) | 4. |
+
 
 ---
 
 1. M. Sait Türköz, Temel Elektronik, Birsen Yayınevi, İstanbul, 2009.
 2. H. Refik Peynirci & Hikmet Özata, Temel Elektronik, MEB, İstanbul, 2002.
 3. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik, Nobel Akademik Yayıncılık, Ankara, 2021.
+4. Doç. Dr. Hüseyin 
+5. 
+
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
